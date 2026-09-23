@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,50:7B2FF7,100:00D4FF&height=220&section=header&text=HARSHIT!&fontSize=60&fontColor=ffffff&fontAlignY=45&desc=CS+Student+%7C+Discord+Bot+Dev+%7C+Logic+Driven&descSize=18&descAlignY=65&descAlign=50" width="100%" />
 
-<p align="right"> <img src="https://img.shields.io/badge/Profile%20views-Garvittt-0e75b6?style=flat" alt="Harshit" /> </p>
+<p align="right"> <img src="https://img.shields.io/badge/Profile%20views-Harshit-0e75b6?style=flat" alt="Harshit" /> </p>
 
 <br>
 
