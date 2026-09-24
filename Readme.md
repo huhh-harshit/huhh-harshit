@@ -53,7 +53,7 @@ I love learning new technologies, writing code in Node.js and Python, and unders
 <h3 align="right">Connect with me</h3>
 
 <p align="right">
-  <a href="https://discord.com/users/1061339539840446504">
+  <a href="https://discord.com/users/997036092815581344">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
   </a>
   <a href="https://x.com/garvit_dev">
