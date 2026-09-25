@@ -59,12 +59,6 @@ I love learning new technologies, writing code in Node.js and Python, and unders
   <a href="https://x.com/garvit_dev">
     <img src="https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white" />
   </a>
-  <a href="https://reddit.com/user/garvittt_">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white" />
-  </a>
-  <a href="https://garvitt-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23007BFF.svg?logo=vercel&logoColor=white" />
-  </a>
   <a href="https://leetcode.com/u/logic_forge/">
     <img src="https://img.shields.io/badge/LeetCode-%23F89F1B.svg?logo=leetcode&logoColor=white" />
   </a>
