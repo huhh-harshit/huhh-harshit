@@ -57,7 +57,7 @@ I love learning new technologies, writing code in Node.js and Python, and unders
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/huhh.harshit">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/logic_forge/">
     <img src="https://img.shields.io/badge/LeetCode-%23F89F1B.svg?logo=leetcode&logoColor=white" />
